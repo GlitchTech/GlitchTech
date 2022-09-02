@@ -4,8 +4,6 @@ I taught myself more than a dozen programming languages and added many framework
 
 When I bought my first smartphone in 2009, I discovered that it didn’t have any financial tracking apps. I wasn’t surprised, since it was a webOS Palm Pre, and its mobile ecosystem was brand new. Before the official Palm app store opened, I built and released Checkbook to the Homebrew developer community. Eventually the app made its way into the official store. During the short lifespan of webOS, Checkbook accumulated almost 20,000 paid downloads.
 
-My most recent creation is a pair of interactive iOS and Android tour apps for the Spencer Museum of Art at the University of Kansas, supported by a web-based integrated content management system. Although the client was unfamiliar with the capabilities and limitations of mobile environments, we worked together to craft functionality requirements and UI designs for the apps. On launch day, which coincided with the SMA’s grand re-opening, both adults and children were enthralled with the app integrated tour.
-
 Outside of tech, I spend my time reading, writing, and playing D&D.
 
 [glitchtechscience.com](https://glitchtechscience.com/)
